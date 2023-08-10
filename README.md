@@ -1,2 +1,2 @@
 # python.file
-I create Random password Generator using python
+I created Random password Generator using python
